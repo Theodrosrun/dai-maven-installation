@@ -1,5 +1,4 @@
-# Use Maven on Linux Ubuntu
-
+# Use Maven on Linux Ubuntu (22.04.3)
 [Tutorial link](https://github.com/heig-vd-dai-course/heig-vd-dai-course/blob/main/04-java-intellij-idea-and-maven/COURSE_MATERIAL.md)
 
 ## Main steps
