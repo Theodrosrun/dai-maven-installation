@@ -1,10 +1,6 @@
 # Use Maven on Linux Ubuntu (22.04.3)
 [Tutorial link](https://github.com/heig-vd-dai-course/heig-vd-dai-course/blob/main/04-java-intellij-idea-and-maven/COURSE_MATERIAL.md)
 
-### Install Java
-
-In this section, you will install Java using the version 17 from Temurin.
-
 #### Install Java
 
 If you are using Linux (WSL excluded) or macOS, you can install and use
