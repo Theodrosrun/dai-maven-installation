@@ -34,6 +34,8 @@ OpenJDK Runtime Environment Temurin-17.0.8+7 (build 17.0.8+7)
 OpenJDK 64-Bit Server VM Temurin-17.0.8+7 (build 17.0.8+7, mixed mode, sharing)
 ```
 
+---
+
 ### Download and run Maven
 
 In this section, you will download and run Maven manually. In a future section,
@@ -82,6 +84,8 @@ OS name: "mac os x", version: "13.5.1", arch: "x86_64", family: "mac"
 
 This means that Maven is correctly running.
 
+---
+
 #### "Install" Maven by adding it to your `PATH`
 
 If you are using Linux (WSL excluded) or macOS, use your package manager to
@@ -97,6 +101,8 @@ follow this tutorial: <https://phoenixnap.com/kb/install-maven-windows>.
 >
 > Feel free to open an issue and a pull request on GitHub if you want to help!
 > Thanks!
+
+---
 
 ### Install and configure IntelliJ IDEA
 
@@ -131,6 +137,8 @@ Open IntelliJ Toolbox App and login with your JetBrains account.
 
 Install IntelliJ IDEA from the Toolbox App and you should be good to go!
 
+---
+
 ### Create and run a new Maven project with IntelliJ IDEA
 
 In this section, you will create a new Maven project with IntelliJ IDEA.
@@ -147,6 +155,8 @@ following screenshot:
 Press the "Run" button in the toolbar to run the Maven project.
 
 The output should be `Hello World!` in the "Run" tab.
+
+---
 
 #### Initialize the Maven wrapper
 
@@ -188,6 +198,8 @@ the Maven wrapper:
 ```
 
 The output should be similar to the previous execution of Maven.
+
+---
 
 #### Update the `pom.xml` file to generate a JAR file
 
@@ -246,6 +258,8 @@ Congratulations! You have successfully created and run your first Maven project!
 You could share this JAR file with other developers and they could run it on
 their computer, without having to install IntelliJ IDEA or Maven.
 
+---
+
 #### Store the Maven configuration as IntelliJ IDEA Run/Debug configuration
 
 Running Maven commands from the command line is not very convenient. You can
@@ -278,6 +292,8 @@ Make usage of the Maven wrapper by modifying the **Maven option**.
 Save the configuration and run it by pressing the "Run" button in the toolbar.
 
 The output should be similar to the previous execution of Maven.
+
+---
 
 #### Add a dependency
 
@@ -468,6 +484,8 @@ transitive dependencies.
 > We will not go any deeper in this topic in this course. You will learn more
 > about this in other future courses. Our goal here is to give you the tools to
 > develop Java applications and share them with other developers easily.
+
+---
 
 #### Initialize a local Git repository
 
