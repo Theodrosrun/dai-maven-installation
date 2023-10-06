@@ -94,14 +94,6 @@ install Maven. This will add Maven to your `PATH` so you can use it anywhere.
 If you are using Windows, you can add Maven to your `PATH` manually. You can
 follow this tutorial: <https://phoenixnap.com/kb/install-maven-windows>.
 
-> **Note**  
-> I (Ludovic) am interested if one of you could improve this section with
-> instructions and/or screenshots. As I am not using Windows myself, I cannot
-> test it entirely.
->
-> Feel free to open an issue and a pull request on GitHub if you want to help!
-> Thanks!
-
 ---
 
 ### Install and configure IntelliJ IDEA
@@ -124,14 +116,6 @@ IntelliJ Toolbox App on your system: <https://www.jetbrains.com/toolbox/app>.
 #### Enable the student license in IntelliJ Toolbox App
 
 Open IntelliJ Toolbox App and login with your JetBrains account.
-
-> **Note**  
-> I (Ludovic) am interested if one of you could improve this section with
-> instructions and/or screenshots. I did not do it myself for a long time, maybe
-> it has changed and my memory is not up to date anymore.
->
-> Feel free to open an issue and a pull request on GitHub if you want to help!
-> Thanks!
 
 #### Install IntelliJ IDEA Ultimate Edition
 
